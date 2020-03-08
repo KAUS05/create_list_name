@@ -1,0 +1,16 @@
+{
+  "name": "create-list-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sayedabdulkarim.github.io/create_list_name",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
